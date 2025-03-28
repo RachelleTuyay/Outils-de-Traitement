@@ -1,5 +1,5 @@
 # Outils de Traitement :
-Dépôt Github pour le cours "Outils de traitement de corpus" en Master 1 TAL (à INALCO, USN, Nanterre)
+Dépôt Github pour le cours "Outils de traitement de corpus" en Master 1 TAL (à INALCO, Université Sorbonne Nouvelle (P3), Université Paris Nanterre (P10) )
 
 -----=-----
 
