@@ -3,7 +3,7 @@ Dépôt Github pour le cours "Outils de traitement de corpus" en Master 1 TAL (�
 
 ---
 
-## PROJET : Détection des tendances d'actualité à partir d'articles de presse en ligne
+## PROJET : Détection des tendances d'actualité à partir d'articles de presse de France Info
 
 - Dans quel besoin vous inscrivez-vous ?
 L’analyse des tendances d’actualité est essentielle pour comprendre l’évolution de l’information médiatique sur des sujets spécifiques. Un système capable de détecter automatiquement ces tendances à partir d’un corpus d’articles de presse peut être utile pour les chercheurs, journalistes ou entreprises souhaitant suivre l’évolution des thématiques couvertes par les médias.
@@ -14,7 +14,6 @@ Le projet consiste à analyser un grand nombre d’articles de presse collectés
 - Quel type de tâche allez-vous réaliser ?
 La tâche principale est l’extraction de tendances à partir du contenu textuel des articles :
   - Extraction de mots-clés ou expressions fréquentes
-  - Reconnaissance d’entités nommées (NER)
   - Classement des sujets les plus abordés selon leur fréquence
   - Possibilité de regroupement thématique ou de visualisation temporelle des tendances
 
