@@ -1,0 +1,38 @@
+TRANSPARENCE. Pourquoi France Télévisions a-t-elle décidé de se lancer dans l'identification systématique de ses images ?
+
+Recevez l'essentiel de l'actualité et restez à jour avec nos newsletters
+
+
+Comment détecter les deep fake, ces images fausses souvent générées par des intelligences artificielles, ou toute autre tricherie sur des images ou du son ? Le standard C2PA est une piste prometteuse que France Télévisions souhaite adopter pour mieux flécher ses contenus auprès des utilisateurs.
+France Télévisions met en place à partir du lundi 19 mai le standard C2PA sur ses JT de 13 heures et de 20 heures disponibles en replay sur cette page dédiée. Quel est le but de cette démarche ? A quoi correspond exactement le standard C2PA ? Toutes nos explications dans le cadre de notre rubrique Une information transparente .
+Ceux qui ne croient que ce qu'ils voient sont désormais loin du compte. Voir les photos ou les vidéos sur les réseaux sociaux comme sur des sites ne suffit plus à croire à leur véracité. Entendre la voix des journalistes et des personnalités politiques non plus. Nous sommes rentrés dans l'ère des "deep fake" visuels et audio, ces images ou ces reportages radio plus "vrais" que nature mais totalement imaginaires, générées ou modifiées par des IA. Ces techniques peuvent émerveiller dans les films, mais aussi désinformer ou tenter d'influencer des élections, comme par exemple aux Etats Unis en 2024 et en Slovaquie en 2023 .
+Dans le monde entier, les rédactions ont donc créé des groupes de journalistes spécialisés dans la vérification des images, comme Les Révélateurs de France Télévisions . Mais cette adaptation est-elle suffisante face au déferlement de fausses images qui pourrait survenir ? Dans un modèle économique fragile, les médias pourront-ils survivre à cette "course à l'armement" – toujours plus d'images contrefaites, toujours plus de vérificateurs, et ainsi de suite ? Dans quelle mesure pourrez-vous faire confiance, dans un avenir proche, à l'information des médias ou aux contenus des réseaux sociaux ?
+C'est dans ce contexte qu'est né en 2019 le consortium C2PA (Coalition for Content Provenance and Authenticity). Il regroupe près 250 entreprises du monde entier, dont France Télévisions ou la BBC, des plateformes comme Google, TikTok, Meta, Linkedin, des acteurs technologiques comme Microsoft, Adobe, Intel et Open AI, créateur de ChatGPT... Le but : ajouter des informations certifiées et non modifiables (on peut les enlever mais pas les modifier) aux images, dès leur création, pour en assurer la traçabilité et rendre ces informations accessibles au public.
+L'idée est qu'en survolant un logo, l'internaute puisse savoir par exemple qui a produit l'image, comment et quand elle a été modifiée, et par qui. Les informations les plus pertinentes à mettre en avant restent à négocier entre les acteurs de C2PA. Voici comment cela fonctionne, en prenant l'exemple fictif d'un reportage sur une visite d'Emmanuel Macron à La Réunion, qu'une équipe de France Télévisions aurait suivie :
+
+"C’est un standard mondial qui est en train de naître. Un effort collectif pour aider le public à savoir immédiatement d'où provient l'image qu'il regarde."
+journaliste au MédiaLab de l'information de France Télévisions
+La BBC a expérimenté le standard C2PA ponctuellement sur des images issues des réseaux sociaux. Elle raconte cette expérience dans cet article (en anglais) . L'accueil du public semble très positif, selon cette étude du groupe public britannique .
+France Télévisions, comme de nombreux médias dans le monde, utilise déjà le watermarking, un marquage électronique invisible, plus ou moins robuste aux modifications. En quoi le standard C2PA diffère-t-il ?
+Donc le "watermarking" et C2PA ne sont pas concurrents, mais complémentaires. Le premier agit comme un tatouage intégré au contenu, tandis que le second documente son origine de manière explicite et vérifiable. Les deux peuvent cohabiter contre la falsification numérique.
+Les replays du 13H et du 20H accessibles sur notre page "Une information transparente", et uniquement sur cette page dans un premier temps, sont désormais marqués du logo CR (pour "Content Credential"), la marque publique du standard C2PA. Un simple survol fait apparaître le manifeste, qui certifie l'origine des images.
+"C'est un tout premier pas, qui sert à expliquer notre démarche et à prouver que le standard est bien automatisable dans notre processus de diffusion."
+directeur délégué du TechLab France Télévisions
+L'objectif est par la suite d'offrir une traçabilité de chaque image du journal : image des agences de presse, de télévisions étrangères, issues des réseaux sociaux, etc. Un énorme travail d'industrialisation au service de la transparence.
+Partager : l’article sur les réseaux sociaux
+
+les mots-clés associés à cet article
+contenus sponsorisés
+Lancez la conversation
+Connectez-vous à votre compte franceinfo pour commenter.
+Toute l’actu en direct et en continu, où et quand vous voulez.
+: toute l’actu dès 7h30
+Merci ! Votre inscription est bien prise en compte.
+France Télévisions utilise votre adresse e-mail afin de vous adresser des newsletters. Pour exercer vos droits, contactez-nous. Notre politique de confidentialité
+Suivez-nous sur les réseaux sociaux :
+Suivez l'actualité en direct :
+Retrouvez aussi
+L’application France Info
+Tout France Info, et bien plus. Sauvegardez vos articles à lire plus tard et filtrer l’actualité qui vous intéresse
+Activez les notifications franceinfo et ne manquez rien de l’actualité
+Vous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.
