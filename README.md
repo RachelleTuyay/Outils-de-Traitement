@@ -10,9 +10,9 @@ L’analyse des tendances d’actualité est essentielle pour comprendre l’év
 
 - Quel sujet allez-vous traiter ?
 Le projet consiste à analyser un grand nombre d’articles de presse collectés en ligne pour identifier les tendances d’actualité sur une période donnée. Cela inclut la détection des sujets les plus couverts, des entités fréquemment mentionnées (personnes, organisations, lieux), ainsi que des mots-clés ou expressions récurrentes.
-Quel type de tâche allez-vous réaliser ?
 
-- La tâche principale est l’extraction de tendances à partir du contenu textuel des articles :
+- Quel type de tâche allez-vous réaliser ?
+La tâche principale est l’extraction de tendances à partir du contenu textuel des articles :
   - Extraction de mots-clés ou expressions fréquentes
   - Reconnaissance d’entités nommées (NER)
   - Classement des sujets les plus abordés selon leur fréquence
