@@ -1,0 +1,13 @@
+Pour le model CTM (Coherent Topic Models) (url : https://contextualized-topic-models.readthedocs.io/en/stable/combined.html)
+
+Je n'ai pas réussis de le faire fonctionner car :
+Le modèle CTM dépend de versions spécifiques de bibliothèques (comme gensim==4.2.0) qui ne sont pas compatibles avec Python 3.12.
+
+`pip install contextualized-topic-models`
+
+l’installation a échoué avec une erreur liée à la génération des métadonnées de gensim. Le log précis :
+
+`AttributeError: 'dict' object has no attribute '__NUMPY_SETUP__' `
+Ce type d’erreur survient lorsque des versions récentes de Python rencontrent des paquets anciens non encore mis à jour pour la nouvelle syntaxe de setuptools et du compilateur.
+
+J'ai déjà essayé en créeant une nouvelle venv ou pyvenv, mais ça n'a toujours pas fonctionné.

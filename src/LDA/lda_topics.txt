@@ -1,0 +1,50 @@
+Sujet 0: 0.031*"min" + 0.024*"cannes" + 0.017*"festival" + 0.012*"actualité" + 0.010*"gaza" + 0.010*"france" + 0.010*"film" + 0.009*"article" + 0.007*"israélien" + 0.007*"bien"
+
+Sujet 1: 0.001*"image" + 0.000*"france" + 0.000*"cannes" + 0.000*"télévision" + 0.000*"film" + 0.000*"min" + 0.000*"actualité" + 0.000*"genre" + 0.000*"standard" + 0.000*"festival"
+
+Sujet 2: 0.009*"force" + 0.009*"cross" + 0.000*"embarcation" + 0.000*"secourir" + 0.000*"être" + 0.000*"eau" + 0.000*"france" + 0.000*"personne" + 0.000*"sauvetage" + 0.000*"hélicoptère"
+
+Sujet 3: 0.022*"taxi" + 0.018*"vouloir" + 0.016*"france" + 0.016*"actualité" + 0.016*"social" + 0.014*"malade" + 0.012*"article" + 0.012*"franceinfo" + 0.012*"gouvernement" + 0.010*"compte"
+
+Sujet 4: 0.000*"cannes" + 0.000*"festival" + 0.000*"film" + 0.000*"min" + 0.000*"france" + 0.000*"actualité" + 0.000*"être" + 0.000*"nestlé" + 0.000*"social" + 0.000*"genre"
+
+Sujet 5: 0.018*"france" + 0.016*"image" + 0.014*"télévision" + 0.012*"gaza" + 0.012*"espoir" + 0.010*"israélien" + 0.010*"standard" + 0.010*"actualité" + 0.010*"social" + 0.010*"réseau"
+
+Sujet 6: 0.027*"personne" + 0.025*"mort" + 0.021*"rue" + 0.020*"france" + 0.018*"collectif" + 0.013*"actualité" + 0.010*"rapport" + 0.010*"article" + 0.009*"lieu" + 0.009*"fixe"
+
+Sujet 7: 0.022*"nestlé" + 0.019*"santé" + 0.017*"eau" + 0.016*"rapport" + 0.012*"france" + 0.010*"être" + 0.009*"waters" + 0.009*"radio" + 0.009*"agence" + 0.008*"sanitaire"
+
+Sujet 8: 0.012*"être" + 0.012*"victime" + 0.012*"attendre" + 0.010*"hôpital" + 0.010*"eau" + 0.010*"embarcation" + 0.010*"actualité" + 0.007*"chirurgien" + 0.007*"scouarnec" + 0.007*"coupable"
+
+Sujet 9: 0.036*"drone" + 0.017*"fibre" + 0.012*"filaire" + 0.012*"ukraine" + 0.012*"russe" + 0.012*"optique" + 0.010*"actualité" + 0.010*"vite" + 0.010*"ukrainien" + 0.010*"anton"
+
+Sujet 10: 0.016*"actualité" + 0.014*"france" + 0.012*"article" + 0.009*"sondage" + 0.008*"rapport" + 0.008*"réseau" + 0.008*"direct" + 0.008*"droite" + 0.008*"actu" + 0.008*"suivre"
+
+Sujet 11: 0.008*"movement" + 0.008*"resistance" + 0.008*"islamic" + 0.001*"france" + 0.001*"actualité" + 0.000*"cannes" + 0.000*"franceinfo" + 0.000*"festival" + 0.000*"film" + 0.000*"gaza"
+
+Sujet 12: 0.000*"cannes" + 0.000*"film" + 0.000*"festival" + 0.000*"min" + 0.000*"cinéma" + 0.000*"genre" + 0.000*"réalisateur" + 0.000*"être" + 0.000*"france" + 0.000*"croisette"
+
+Sujet 13: 0.018*"dimanche" + 0.016*"actualité" + 0.014*"vol" + 0.014*"aérien" + 0.014*"cancer" + 0.012*"biden" + 0.012*"article" + 0.012*"france" + 0.010*"paris" + 0.010*"aéroport"
+
+Sujet 14: 0.001*"france" + 0.000*"nestlé" + 0.000*"rapport" + 0.000*"heure" + 0.000*"eau" + 0.000*"santé" + 0.000*"actualité" + 0.000*"article" + 0.000*"bien" + 0.000*"compte"
+
+Sujet 15: 0.000*"france" + 0.000*"article" + 0.000*"actualité" + 0.000*"bien" + 0.000*"social" + 0.000*"attendre" + 0.000*"newsletter" + 0.000*"info" + 0.000*"franceinfo" + 0.000*"compte"
+
+Sujet 16: 0.066*"france" + 0.024*"heure" + 0.017*"roland" + 0.017*"garros" + 0.016*"numérique" + 0.016*"chaîne" + 0.015*"mai" + 0.013*"partir" + 0.012*"juin" + 0.011*"actualité"
+
+Sujet 17: 0.030*"film" + 0.027*"min" + 0.022*"cannes" + 0.016*"festival" + 0.015*"fuki" + 0.011*"vouloir" + 0.010*"chose" + 0.009*"scène" + 0.007*"japonais" + 0.007*"beaucoup"
+
+Sujet 18: 0.026*"film" + 0.023*"festival" + 0.018*"cannes" + 0.015*"croisette" + 0.015*"acteur" + 0.012*"mai" + 0.012*"compétition" + 0.012*"star" + 0.012*"anderson" + 0.012*"wes"
+
+Sujet 19: 0.015*"actualité" + 0.013*"nicusor" + 0.013*"dan" + 0.011*"manifestant" + 0.011*"roumanie" + 0.011*"article" + 0.011*"france" + 0.009*"israélien" + 0.009*"élection" + 0.009*"social"
+
+Sujet 20: 0.016*"france" + 0.012*"canada" + 0.012*"suicide" + 0.011*"euthanasie" + 0.011*"mourir" + 0.010*"actualité" + 0.009*"aide" + 0.009*"californie" + 0.009*"assister" + 0.008*"fin"
+
+Sujet 21: 0.021*"choisir" + 0.021*"airbag" + 0.021*"ufc" + 0.014*"actualité" + 0.014*"association" + 0.011*"contre" + 0.011*"volkswagen" + 0.011*"plainte" + 0.011*"mercedes" + 0.011*"takata"
+
+Sujet 22: 0.016*"ambassadeur" + 0.016*"gaza" + 0.016*"israël" + 0.014*"france" + 0.011*"être" + 0.011*"offensive" + 0.011*"vraiment" + 0.011*"humanitaire" + 0.011*"paix" + 0.011*"falloir"
+
+Sujet 23: 0.027*"cannes" + 0.026*"cinéma" + 0.024*"festival" + 0.022*"genre" + 0.021*"min" + 0.019*"film" + 0.010*"réalisateur" + 0.009*"être" + 0.008*"horreur" + 0.007*"croisette"
+
+Sujet 24: 0.000*"france" + 0.000*"cannes" + 0.000*"film" + 0.000*"actualité" + 0.000*"franceinfo" + 0.000*"vouloir" + 0.000*"article" + 0.000*"festival" + 0.000*"bien" + 0.000*"réseau"
+

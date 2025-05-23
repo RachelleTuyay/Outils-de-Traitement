@@ -1,0 +1,61 @@
+Sujet 0: 0.108*"personn" + 0.084*"mort" + 0.084*"rue" + 0.084*"collectif" + 0.042*"rapport" + 0.036*"chiffre" + 0.024*"non" + 0.024*"communiquer" + 0.024*"mener" + 0.024*"nombre"
+
+Sujet 1: 0.064*"min" + 0.058*"canne" + 0.048*"film" + 0.039*"festival" + 0.013*"tapis" + 0.013*"rouge" + 0.012*"scène" + 0.010*"juliette" + 0.010*"acteur" + 0.010*"mylène"
+
+Sujet 2: 0.002*"canne" + 0.002*"festival" + 0.002*"min" + 0.002*"cinéma" + 0.002*"genre" + 0.002*"eau" + 0.002*"film" + 0.002*"rapport" + 0.002*"image" + 0.002*"santé"
+
+Sujet 3: 0.111*"heure" + 0.085*"roland" + 0.065*"partir" + 0.052*"juin" + 0.039*"dimanche" + 0.033*"chaîn" + 0.033*"vendredi" + 0.026*"eau" + 0.020*"personn" + 0.020*"nouveau"
+
+Sujet 4: 0.045*"million" + 0.045*"pari" + 0.037*"europe" + 0.030*"britannique" + 0.030*"créer" + 0.030*"pays" + 0.030*"permettre" + 0.030*"petit" + 0.015*"moyen" + 0.015*"charge"
+
+Sujet 5: 0.066*"candidat" + 0.044*"tour" + 0.033*"gouvernement" + 0.033*"place" + 0.033*"résultat" + 0.022*"devoir" + 0.022*"arriver" + 0.022*"point" + 0.022*"présidentiel" + 0.022*"total"
+
+Sujet 6: 0.066*"attendre" + 0.053*"victime" + 0.026*"agir" + 0.026*"affaire" + 0.026*"cour" + 0.026*"question" + 0.026*"passer" + 0.026*"civil" + 0.013*"santé" + 0.013*"enquête"
+
+Sujet 7: 0.043*"dron" + 0.028*"russe" + 0.022*"appareil" + 0.022*"ukrainien" + 0.022*"vite" + 0.017*"mois" + 0.017*"fil" + 0.017*"temps" + 0.015*"ukraine" + 0.013*"vidéo"
+
+Sujet 8: 0.072*"cinéma" + 0.056*"genre" + 0.043*"festival" + 0.043*"canne" + 0.025*"horreur" + 0.025*"réalisateur" + 0.020*"film" + 0.018*"croisett" + 0.016*"genr" + 0.016*"français"
+
+Sujet 9: 0.002*"santé" + 0.002*"eau" + 0.002*"image" + 0.002*"rapport" + 0.002*"information" + 0.002*"directeur" + 0.002*"modifier" + 0.002*"radio" + 0.002*"public" + 0.002*"nouveau"
+
+Sujet 10: 0.091*"image" + 0.049*"information" + 0.035*"public" + 0.021*"exemple" + 0.021*"monde" + 0.021*"modifier" + 0.021*"contenu" + 0.017*"reportage" + 0.015*"groupe" + 0.014*"mettre"
+
+Sujet 11: 0.002*"gazer" + 0.002*"image" + 0.002*"nouveau" + 0.002*"sécurité" + 0.002*"israélien" + 0.002*"aide" + 0.002*"gouvernement" + 0.002*"hama" + 0.002*"autoriser" + 0.002*"opération"
+
+Sujet 12: 0.002*"canne" + 0.002*"cinéma" + 0.002*"min" + 0.002*"festival" + 0.002*"film" + 0.002*"genre" + 0.002*"réalisateur" + 0.002*"israélien" + 0.002*"rue" + 0.002*"personn"
+
+Sujet 13: 0.044*"vie" + 0.044*"autoriser" + 0.044*"aide" + 0.035*"fin" + 0.022*"médecin" + 0.022*"pratique" + 0.018*"santé" + 0.018*"fois" + 0.018*"pays" + 0.018*"modèle"
+
+Sujet 14: 0.002*"canne" + 0.002*"min" + 0.002*"festival" + 0.002*"cinéma" + 0.002*"film" + 0.002*"prendre" + 0.002*"dron" + 0.002*"genre" + 0.002*"fin" + 0.002*"nouveau"
+
+Sujet 15: 0.058*"gazer" + 0.041*"israélien" + 0.030*"israël" + 0.025*"palestinien" + 0.021*"hama" + 0.019*"humanitaire" + 0.018*"trêve" + 0.017*"vraiment" + 0.017*"offensive" + 0.017*"nouveau"
+
+Sujet 16: 0.049*"santé" + 0.043*"eau" + 0.041*"rapport" + 0.023*"radio" + 0.020*"sanitaire" + 0.018*"régional" + 0.018*"directeur" + 0.017*"gard" + 0.014*"général" + 0.012*"enquête"
+
+Sujet 17: 0.040*"dimanche" + 0.031*"droite" + 0.022*"aérien" + 0.018*"choisir" + 0.018*"connaître" + 0.018*"parti" + 0.015*"pari" + 0.015*"voix" + 0.015*"contre" + 0.012*"partir"
+
+Sujet 18: 0.086*"israélien" + 0.051*"final" + 0.051*"samedi" + 0.034*"israël" + 0.034*"ville" + 0.034*"centaine" + 0.034*"participation" + 0.018*"général" + 0.018*"place" + 0.017*"palestinien"
+
+Sujet 19: 0.044*"élection" + 0.044*"candidat" + 0.035*"président" + 0.026*"droite" + 0.026*"extrême" + 0.026*"dimanche" + 0.026*"scrutin" + 0.026*"victoir" + 0.026*"présidentiel" + 0.026*"george"
+
+Sujet 20: 0.068*"européen" + 0.051*"heure" + 0.051*"retard" + 0.051*"association" + 0.051*"consommateur" + 0.042*"projet" + 0.042*"passager" + 0.034*"seuil" + 0.034*"aérien" + 0.026*"souligner"
+
+Sujet 21: 0.057*"président" + 0.035*"maladie" + 0.035*"ancien" + 0.035*"trump" + 0.035*"fil" + 0.035*"forme" + 0.035*"communiquer" + 0.035*"donald" + 0.035*"américain" + 0.023*"assurer"
+
+Sujet 22: 0.047*"rapport" + 0.039*"état" + 0.039*"fraude" + 0.035*"grand" + 0.031*"eau" + 0.031*"sanitaire" + 0.031*"enquête" + 0.031*"commission" + 0.024*"rapporteur" + 0.024*"public"
+
+Sujet 23: 0.054*"nouveau" + 0.054*"sécurité" + 0.041*"régler" + 0.041*"gouvernement" + 0.027*"réaliser" + 0.027*"ville" + 0.027*"presque" + 0.021*"million" + 0.014*"canne" + 0.014*"maladie"
+
+Sujet 24: 0.052*"film" + 0.046*"festival" + 0.035*"canne" + 0.029*"acteur" + 0.023*"croisett" + 0.023*"compétition" + 0.023*"dimanche" + 0.017*"the" + 0.017*"journée" + 0.017*"gouvernement"
+
+
+===== EVALUATIONS ====
+Cohérence c_v LDA BoW: 0.5013
+Cohérence u_mass LDA BoW: -2.3811
+Perplexité LDA BoW: -5.4903
+Diversité des sujets LDA BoW: 0.9397
+
+Cohérence c_v LDA TF-IDF: 0.4514
+Cohérence u_mass LDA TF-IDF: -4.1217
+Perplexité LDA TF-IDF: -11.7597
+Diversité des sujets LDA TF-IDF: 0.9547
